@@ -30,8 +30,6 @@ RESTful APIs · Bootstrap · Responsive Design · Simulation Tools
 
 ## 📫 Get in Touch
 
-The error `MD034/no-bare-urls: Bare URL used` occurs because the markdown linter detects a plain URL without being properly formatted as a hyperlink. To fix this, you can wrap the email address in a proper markdown link format. Here's the corrected content:
-
 - 📧 [Email](mailto:miller_johan.chica_acero@insa-cvl.fr)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/millerchica)  
 - 💻 [GitHub](https://github.com/milleracero)
