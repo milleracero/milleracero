@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hi, I'm Miller Johan Chica 👋
 
-<!--
-**milleracero/milleracero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub! I'm a passionate engineering student specializing in cybersecurity, data analysis, and software development. I enjoy learning new technologies, solving complex problems, and contributing to meaningful projects.
 
-Here are some ideas to get you started:
+## 👨‍🎓 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 **Double Degree Student**  
+  Engineering in Information Security & Technologies (STI) at INSA Centre Val de Loire 🇫🇷  
+  Systems and Computing Engineering at Universidad Nacional de Colombia 🇨🇴
+
+- 🌍 **Location:** France  
+- 🔍 **Current Goal:** Looking for an internship (4–5 months) starting in April 2025  
+- 📚 **Currently Learning:** SOC (Security Operations Center), DevOps, Machine Learning, Secure System Design, React  
+- 💬 **Ask me about:** Python, Cybersecurity, Data Analysis, Linux, Web Development  
+- 🥾 **Fun Fact:** I enjoy hiking, reading, and sports like rugby and boxing!
+
+## 🛠️ Skills & Technologies
+
+**Languages & Web:**  
+Python · Java · JavaScript · C# · HTML/CSS · React · Node.js  
+
+**Systems & Cybersecurity:**  
+Linux · Windows · Git · Networking · Risk Analysis · Threat Detection · Encryption  
+
+**Data & AI:**  
+Pandas · NumPy · SQL · PostgreSQL · NoSQL · Machine Learning · Neural Networks  
+
+**Tools & Other:**  
+RESTful APIs · Bootstrap · Responsive Design · Simulation Tools  
+
+## 📫 Get in Touch
+
+The error `MD034/no-bare-urls: Bare URL used` occurs because the markdown linter detects a plain URL without being properly formatted as a hyperlink. To fix this, you can wrap the email address in a proper markdown link format. Here's the corrected content:
+
+- 📧 [Email](mailto:miller_johan.chica_acero@insa-cvl.fr)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/millerchica)  
+- 💻 [GitHub](https://github.com/milleracero)
+
+Feel free to explore my repositories or reach out if you'd like to collaborate or chat!
