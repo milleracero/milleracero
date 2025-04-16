@@ -35,3 +35,9 @@ RESTful APIs · Bootstrap · Responsive Design · Simulation Tools
 - 💻 [GitHub](https://github.com/milleracero)
 
 Feel free to explore my repositories or reach out if you'd like to collaborate or chat!
+
+## 📌 Recent Activity
+
+<!--START_SECTION:activity-->
+
+<!--END_SECTION:activity-->
