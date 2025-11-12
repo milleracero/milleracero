@@ -39,12 +39,12 @@ Feel free to explore my repositories or reach out if you'd like to collaborate o
 ## 📌 Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [milleracero/milleracero](https://github.com/milleracero/milleracero)<br>
-2. ⬆️ Pushed undefined commit(s) to [milleracero/Data-mining-INSA---TD-Clustering](https://github.com/milleracero/Data-mining-INSA---TD-Clustering)<br>
+1. 🤝 Became collaborator on [jotorress/Regles-dassociation](https://github.com/jotorress/Regles-dassociation)<br>
+2. ⬆️ Pushed undefined commit(s) to [milleracero/milleracero](https://github.com/milleracero/milleracero)<br>
 3. ⬆️ Pushed undefined commit(s) to [milleracero/Data-mining-INSA---TD-Clustering](https://github.com/milleracero/Data-mining-INSA---TD-Clustering)<br>
 4. ⬆️ Pushed undefined commit(s) to [milleracero/Data-mining-INSA---TD-Clustering](https://github.com/milleracero/Data-mining-INSA---TD-Clustering)<br>
 5. ⬆️ Pushed undefined commit(s) to [milleracero/Data-mining-INSA---TD-Clustering](https://github.com/milleracero/Data-mining-INSA---TD-Clustering)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, November 12th, 2025, 12:34:48 PM
+Last Updated: Wednesday, November 12th, 2025, 1:18:45 PM
 <!--RECENT_ACTIVITY:last_update_end-->
