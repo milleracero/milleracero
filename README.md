@@ -9,7 +9,7 @@ Welcome to my GitHub! I'm a passionate engineering student specializing in cyber
   Systems and Computing Engineering at Universidad Nacional de Colombia 🇨🇴
 
 - 🌍 **Location:** France  
-- 🔍 **Current Goal:** Looking for an internship (4–5 months) starting in April 2025  
+- 🔍 **Current Goal:** Looking for an internship (6 months) starting in February 2026  
 - 📚 **Currently Learning:** SOC (Security Operations Center), DevOps, Machine Learning, Secure System Design, React  
 - 💬 **Ask me about:** Python, Cybersecurity, Data Analysis, Linux, Web Development  
 - 🥾 **Fun Fact:** I enjoy hiking, reading, and sports like rugby and boxing!
