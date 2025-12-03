@@ -39,12 +39,12 @@ Feel free to explore my repositories or reach out if you'd like to collaborate o
 ## 📌 Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [jotorress/Regles-dassociation](https://github.com/jotorress/Regles-dassociation)<br>
-2. ⬆️ Pushed undefined commit(s) to [jotorress/Regles-dassociation](https://github.com/jotorress/Regles-dassociation)<br>
+1. ⬆️ Pushed undefined commit(s) to [jotorress/TD-Classification](https://github.com/jotorress/TD-Classification)<br>
+2. 🤝 Became collaborator on [jotorress/TD-Classification](https://github.com/jotorress/TD-Classification)<br>
 3. ⬆️ Pushed undefined commit(s) to [jotorress/Regles-dassociation](https://github.com/jotorress/Regles-dassociation)<br>
 4. ⬆️ Pushed undefined commit(s) to [jotorress/Regles-dassociation](https://github.com/jotorress/Regles-dassociation)<br>
 5. ⬆️ Pushed undefined commit(s) to [jotorress/Regles-dassociation](https://github.com/jotorress/Regles-dassociation)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, December 3rd, 2025, 1:18:06 AM
+Last Updated: Wednesday, December 3rd, 2025, 12:36:32 PM
 <!--RECENT_ACTIVITY:last_update_end-->
